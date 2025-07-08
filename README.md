@@ -4,7 +4,9 @@ This Power BI dashboard provides an interactive visual analysis of globally migr
 -------
 
 # 📊 Dashboard Overview
-The dashboard offers an insightful view into student migration trends and placement statistics. 
+The dashboard offers an insightful view of student migration trends and placement statistics. 
+
+![Live Dashboard](https://github.com/Sowji-techsavvy/Globally-Migrated-Students/blob/main/Migrated%20students%20dashboard.png)
 
 # Key visuals include:
 
